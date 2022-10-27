@@ -1,0 +1,32 @@
+div{ background-color: rgb(255, 255, 255);
+  background-size: -20%;
+}
+h1{text-align-last: center;     font-family: Georgia, 'Times New Roman', Times, serif;
+margin: 200px;}
+img{ 
+    width: 100%;
+    height: auto;
+    
+}
+.joel{
+    display: block;
+    margin: auto;
+    width: 200px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-left: 250px;
+}
+
+ul > li > a {
+    text-decoration: none;
+    text-emphasis-color:initial;
+}
